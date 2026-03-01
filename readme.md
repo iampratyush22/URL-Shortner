@@ -317,24 +317,4 @@ Client
 * DB sharding by shortCode
 * CDN for redirects
 
----
-
-## 9. What You Can Build Incrementally
-
-1. Monolith version
-2. Extract Auth
-3. Extract Redirect
-4. Add Cache
-5. Add ZooKeeper
-
----
-
-If you want next:
-
-* **Go‑based version**
-* **Kubernetes YAML**
-* **gRPC proto files**
-* **Short code generation algorithms (Base62, Snowflake)**
-
-Just tell me 👍
-# URL-Shortner
+gi
